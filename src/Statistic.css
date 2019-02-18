@@ -1,0 +1,43 @@
+.leader{  
+    border-radius: 10px;
+    background-color: white;
+    width:200px;
+    height: 250px;
+    text-align: center;
+    
+     
+}
+.leader p{
+    width: 80%;
+    display:block;
+    
+    
+}
+.healthcare{
+    background-color:#d9f6f5;
+    display:flex; 
+}
+.healthcare h1{
+    color :white;
+}
+.grid{
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    
+    height: 580px;
+    overflow: hidden;
+}
+.grid div:nth-child(odd) {
+    margin: 15px;
+ 
+  }
+  .grid div:nth-child(1) {
+    font-size:15px;
+ 
+  }
+.min-logo{
+    
+}
+  

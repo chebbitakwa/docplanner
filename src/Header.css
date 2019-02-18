@@ -1,0 +1,26 @@
+.logo{
+    width: 250px;
+    margin-top:25px; 
+}
+
+.menu{
+    margin-right: 15px;
+    color: #bdbfbf;
+    text-decoration: none;
+    
+    
+}
+.nav{
+    width: 250px;
+    display: flex;
+    align-items: center;
+}
+.header{
+    background-color: white;
+    height:80px;
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top:0px;
+    z-index: 5;
+}

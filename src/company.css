@@ -1,0 +1,29 @@
+.link {
+    font-size: 25px;
+    padding:20px;
+    text-decoration: none;
+    color:#bdbfbf;
+    
+    
+}
+.titre h2{
+    color:#00ccb1;
+    width: 250px;
+}
+.container{
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex; 
+    transform: translateX(50px);
+
+}
+.like{
+
+}
+.fh{
+    display:flex;
+    
+}
+

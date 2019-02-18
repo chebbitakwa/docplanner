@@ -1,0 +1,51 @@
+.country{
+    
+    border-radius: 10px;
+    border-radius: 10px;
+    background-color:white;
+    border:1px solid #cacaca;
+    width: 300px;
+    overflow: hidden;
+    margin: 30px;
+    
+
+    
+   /* margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;*/
+
+}
+.warsaw {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.countrys h1 {
+    color : #00ccb1;
+    display: flex;
+    justify-content: center;
+}
+.countrys p {
+margin:auto;
+width: 400px;
+text-align: center;
+color:gray;
+}
+.btn{
+    display: flex;
+    margin-left:10px;
+}
+.btn a{
+    font-size: 12px;
+    border-radius:5px;
+    margin:10px;
+    padding-left:20px;
+    padding-right: 20px;
+    background-color: rgb(46, 46, 252) ;
+    color:white;
+    text-decoration: none;
+}
+
+
+

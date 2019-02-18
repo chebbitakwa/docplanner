@@ -1,0 +1,35 @@
+.patient{
+    border:1px solid ;
+    border-radius: 10px;
+    text-align: left;
+    color:white;
+    background: #00ccb1;
+    width: 450px;
+    height: 420PX;
+    padding: 20px;
+    overflow: hidden;
+    margin:20px;
+    
+}
+.patient p{
+    color: white;
+}
+.img1{
+    margin :30px;
+    height:250px;
+    position: relative;
+    left:140px;
+    transform:translateY(-30px)
+    
+}
+.for-patients{
+    display :flex;
+    justify-content: center;
+}
+.fordoctor{
+    background-color: #3d83df;
+}
+.forpatient{
+    background: #00ccb1;
+    
+}
